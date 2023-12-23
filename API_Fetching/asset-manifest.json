@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NikhilS/Projects/API_Fetching/static/css/main.fc8230b2.css",
+    "main.js": "/NikhilS/Projects/API_Fetching/static/js/main.5c6205e9.js",
+    "static/media/hero0.jpg": "/NikhilS/Projects/API_Fetching/static/media/hero0.db09e5b9207824d94f84.jpg",
+    "static/media/JioCinema.png": "/NikhilS/Projects/API_Fetching/static/media/JioCinema.3857c3ffe94d6bc96f65.png",
+    "index.html": "/NikhilS/Projects/API_Fetching/index.html",
+    "main.fc8230b2.css.map": "/NikhilS/Projects/API_Fetching/static/css/main.fc8230b2.css.map",
+    "main.5c6205e9.js.map": "/NikhilS/Projects/API_Fetching/static/js/main.5c6205e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8230b2.css",
+    "static/js/main.5c6205e9.js"
+  ]
+}
